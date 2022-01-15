@@ -1,0 +1,5 @@
+num = int(input("Enter number: "))
+print("Number entered is: ", num)
+first = input("\nEnter first name: ")
+last = input("Enter last name: ")
+print("Hello " + first + " " + last)
